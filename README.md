@@ -31,8 +31,9 @@ Users should be able to:
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
 ### Screenshot
+<img width="1512" alt="screenshot" src="https://user-images.githubusercontent.com/115225767/210708071-c32d4eb0-ea6a-48cd-9f52-533b9dfcae07.png">
 
-![](/screenshot.png)
+
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
